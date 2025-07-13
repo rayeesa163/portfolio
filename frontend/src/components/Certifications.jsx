@@ -171,8 +171,8 @@ const Certifications = () => {
                 <div className="text-gray-600 dark:text-gray-300">Major Platforms</div>
               </div>
               <div>
-                <div className="text-3xl font-bold text-green-600 dark:text-green-400">Top 5%</div>
-                <div className="text-gray-600 dark:text-gray-300">Performance</div>
+                <div className="text-3xl font-bold text-green-600 dark:text-green-400">6+</div>
+                <div className="text-gray-600 dark:text-gray-300">Certifications</div>
               </div>
               <div>
                 <div className="text-3xl font-bold text-orange-600 dark:text-orange-400">100%</div>
