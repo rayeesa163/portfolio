@@ -86,7 +86,7 @@ const About = () => {
                   S Rayeesa Tabusum
                 </h3>
                 <p className="text-indigo-600 dark:text-indigo-400 font-medium">
-                  Software Engineer & AI/ML Expert
+                  Software Engineer, AI/ML Engineer & Data Analyst
                 </p>
               </div>
             </div>
