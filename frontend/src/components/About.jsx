@@ -19,10 +19,10 @@ const About = () => {
       description: "Intelligent solutions & ML pipelines"
     },
     {
-      icon: <BarChart3 className="h-6 w-6" />,
-      title: "Data Analytics",
-      description: "Dashboard design & data insights"
-    },
+      icon: <Zap className="h-6 w-6" />,
+      title: "6+ Projects",
+      description: "Production-ready deployed applications"
+    }
   ];
 
   return (
