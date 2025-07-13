@@ -92,7 +92,7 @@ const Education = () => {
               </h4>
               <div className="grid sm:grid-cols-3 gap-4">
                 <div className="text-center p-4 bg-indigo-50 dark:bg-indigo-900/20 rounded-2xl">
-                  <div className="text-2xl font-bold text-indigo-600 dark:text-indigo-400">8.7+</div>
+                  <div className="text-2xl font-bold text-indigo-600 dark:text-indigo-400">7.5</div>
                   <div className="text-sm text-gray-600 dark:text-gray-400">Expected CGPA</div>
                 </div>
                 <div className="text-center p-4 bg-purple-50 dark:bg-purple-900/20 rounded-2xl">
