@@ -56,7 +56,7 @@ const Footer = () => {
               S Rayeesa Tabusum
             </button>
             <p className="text-gray-300 mt-4 text-lg leading-relaxed">
-              Software Engineer · AI/ML Engineer · Full Stack Developer
+              Software Engineer · AI/ML Engineer · Data Analyst · Full Stack Developer
             </p>
             <p className="text-gray-400 mt-2 leading-relaxed">
               Building scalable web apps, intelligent ML systems, and data-driven 
