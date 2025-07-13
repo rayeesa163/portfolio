@@ -1,5 +1,5 @@
 import React from 'react';
-import { GraduationCap, Code2, Brain, Zap } from 'lucide-react';
+import { GraduationCap, Code2, Brain, BarChart3 } from 'lucide-react';
 
 const About = () => {
   const highlights = [
