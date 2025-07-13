@@ -49,14 +49,14 @@ const Certifications = () => {
 
   const achievements = [
     {
-      title: "Finalist – ExcelR Showcase",
+      title: "ExcelR Showcase Finalist",
       description: "Top performer in AI internship showcase presentation",
       icon: <Trophy className="h-6 w-6" />,
       color: "text-yellow-600"
     },
     {
-      title: "Top 5% – SmartBridge Internship",
-      description: "Exceptional performance in data analytics internship",
+      title: "SmartBridge Data Analytics Certification",
+      description: "Completed data analytics internship with excellent performance",
       icon: <Star className="h-6 w-6" />,
       color: "text-blue-600"
     },
