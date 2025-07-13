@@ -27,7 +27,7 @@ const Hero = () => {
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 dark:text-white mb-6 animate-fade-in-up animation-delay-200">
             <span className="block">Software Engineer</span>
             <span className="block text-transparent bg-clip-text bg-gradient-to-r from-indigo-600 to-purple-600 dark:from-indigo-400 dark:to-purple-400">
-              AI/ML Engineer
+              AI/ML Engineer · Data Analyst
             </span>
             <span className="block">Full Stack Developer</span>
           </h1>
