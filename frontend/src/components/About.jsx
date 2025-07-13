@@ -6,7 +6,7 @@ const About = () => {
     {
       icon: <GraduationCap className="h-6 w-6" />,
       title: "B.Tech CSE (AI)",
-      description: "Final-year student with 8.7+ CGPA"
+      description: "Final-year student with 7.5 CGPA"
     },
     {
       icon: <Code2 className="h-6 w-6" />,
